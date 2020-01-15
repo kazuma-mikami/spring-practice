@@ -7,3 +7,4 @@ remote commit
 commit
 commit
 Dog commit
+dog commit
