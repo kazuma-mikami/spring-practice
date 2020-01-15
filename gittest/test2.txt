@@ -1,6 +1,3 @@
 test2
-
-
-
-Commit dog
-ddd
+Master commit
+remote change
