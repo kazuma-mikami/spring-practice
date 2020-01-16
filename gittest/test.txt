@@ -7,3 +7,4 @@ remote commit
 commit
 commit
 commit
+コミット
