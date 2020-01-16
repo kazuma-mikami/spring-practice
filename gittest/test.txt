@@ -1,4 +1,4 @@
-hello git!
+hello git
 Edit test!
 Commit
 commit2
